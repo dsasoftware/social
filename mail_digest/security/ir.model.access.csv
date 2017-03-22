@@ -1,0 +1,4 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_mail_digest_all,mail.digest.all,model_mail_digest,,1,0,0,0
+access_partner_notification_conf_all,partner.notification.all,model_partner_notification_conf,,1,0,0,0
+,,,,,,,
